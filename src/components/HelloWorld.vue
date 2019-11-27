@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '改新分支'
+      msg: '123'
     }
   }
 }
